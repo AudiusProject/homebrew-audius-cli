@@ -40,8 +40,8 @@ class Audius < Formula
     end
 
     resource "py-cui" do
-      url "https://files.pythonhosted.org/packages/8a/f1/a16cf619b53c0b7cf068daf07154a74a73a84598a1faa6f19411d47ee4b1/py_cui-0.1.4.tar.gz"
-      sha256 "22ccd3e7c2d1e647ca9cca7756d0a912fa1432f46bc1896ccfd57799e59c57be"
+      url "https://github.com/jwlodek/py_cui/archive/refs/tags/v0.1.4.tar.gz"
+      sha256 "9d7ebac19fde15249442d141ea42e0b150cd296547d8bb0646d84f6031cc72d8"
     end
 
     resource "requests" do
