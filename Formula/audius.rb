@@ -3,8 +3,8 @@ class Audius < Formula
 
     desc "Terminal-based music player written in Python for the best music in the world 🎵 🎧 💻"
     homepage "https://github.com/AudiusProject/audius-cli"
-    url "https://github.com/AudiusProject/audius-cli/archive/refs/tags/v0.0.1.tar.gz"
-    sha256 "4dad276ac311a0797f09c1f7980eafa588bd8317d1309d2cd8469b7a71fc54ce"
+    url "https://github.com/AudiusProject/audius-cli/archive/refs/tags/v0.0.2.tar.gz"
+    sha256 "a28691c4c92f20687a5f158eac31fceaecdaafaf60385a5985a84edd1058d039"
     license "MIT"
 
     depends_on "python@3.9"
