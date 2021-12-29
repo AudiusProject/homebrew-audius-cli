@@ -3,8 +3,8 @@ class Audius < Formula
 
     desc "Terminal-based music player written in Python for the best music in the world 🎵 🎧 💻"
     homepage "https://github.com/AudiusProject/audius-cli"
-    url "https://github.com/AudiusProject/audius-cli/archive/refs/tags/v0.0.2.tar.gz"
-    sha256 "a28691c4c92f20687a5f158eac31fceaecdaafaf60385a5985a84edd1058d039"
+    url "https://github.com/AudiusProject/audius-cli/archive/refs/tags/v0.0.3.tar.gz"
+    sha256 "1a0d37984a604026d045321cf9501db94794d2996eb4bc4ca3fd3343a74d4af8"
     license "MIT"
 
     depends_on "python@3.9"
@@ -32,11 +32,6 @@ class Audius < Formula
     resource "pathspec" do
       url "https://pypi.python.org/packages/source/p/pathspec/pathspec-0.9.0.tar.gz"
       sha256 "e564499435a2673d586f6b2130bb5b95f04a3ba06f81b8f895b651a3c76aabb1"
-    end
-
-    resource "platformdirs" do
-      url "https://pypi.python.org/packages/source/p/platformdirs/platformdirs-2.4.1.tar.gz"
-      sha256 "440633ddfebcc36264232365d7840a970e75e1018d15b4327d11f91909045fda"
     end
 
     resource "py-cui" do
