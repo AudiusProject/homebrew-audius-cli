@@ -60,8 +60,6 @@ class Audius < Formula
     end
 
     def install
-      venv = virtualenv_create(libexec)
-      venv.pip_install resources
-      venv.pip_install_and_link buildpath
+      virtualenv_install_with_resources
     end
   end
