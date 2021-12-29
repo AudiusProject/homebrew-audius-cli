@@ -1,7 +1,7 @@
 class Audius < Formula
     include Language::Python::Virtualenv
 
-    desc "Terminal-based music player written in Python for the best music in the world 🎵 🎧 💻"
+    desc "Play music from Audius on your terminal"
     homepage "https://github.com/AudiusProject/audius-cli"
     url "https://github.com/AudiusProject/audius-cli/archive/refs/tags/v0.0.3.tar.gz"
     sha256 "1a0d37984a604026d045321cf9501db94794d2996eb4bc4ca3fd3343a74d4af8"
