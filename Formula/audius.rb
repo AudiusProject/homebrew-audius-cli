@@ -3,8 +3,8 @@ class Audius < Formula
 
   desc "Play music from Audius on your terminal"
   homepage "https://github.com/AudiusProject/audius-cli"
-  url "https://github.com/AudiusProject/audius-cli/archive/refs/tags/v0.0.3.tar.gz"
-  sha256 "1a0d37984a604026d045321cf9501db94794d2996eb4bc4ca3fd3343a74d4af8"
+  url "https://github.com/AudiusProject/audius-cli/archive/refs/tags/v1.0.0.tar.gz"
+  sha256 "4c11dee3e98673862f531536cc68c6bf2947dc0c1e6e72e4396fd4655b00bb4f"
   license "MIT"
 
   depends_on "python@3.9"
