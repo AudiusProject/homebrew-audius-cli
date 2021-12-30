@@ -1,11 +1,12 @@
-# AudiusProject Audius-cli
+# audius-cli
 
-## How do I install these formulae?
+Terminal-based music player written in Python for the best music in the world 🎵 🎧 💻
 
-`brew install audiusproject/audius-cli/<formula>`
+This repo, `homebrew-audius-cli`, is just the Homebrew distribution. See main project repo at [audius-cli](https://github.com/AudiusProject/audius-cli) for details! :) 
 
-Or `brew tap audiusproject/audius-cli` and then `brew install <formula>`.
+## Install
 
-## Documentation
+`brew install audiusproject/audius-cli/audius`
 
-`brew help`, `man brew` or check [Homebrew's documentation](https://docs.brew.sh).
+Or `brew tap audiusproject/audius-cli` and then `brew install audius`.
+
