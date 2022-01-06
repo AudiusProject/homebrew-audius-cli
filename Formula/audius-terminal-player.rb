@@ -4,7 +4,7 @@ class AudiusTerminalPlayer < Formula
   desc "Play music from Audius on your terminal"
   homepage "https://github.com/AudiusProject/audius-terminal-player"
   url "https://github.com/AudiusProject/audius-terminal-player/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "4c11dee3e98673862f531536cc68c6bf2947dc0c1e6e72e4396fd4655b00bb4f"
+  sha256 "c5e9b3829a4ef3bd035e836e7ef7b35074d5b21d020c656c7722348a5c3e3e77"
   license "MIT"
 
   depends_on "python@3.9"
