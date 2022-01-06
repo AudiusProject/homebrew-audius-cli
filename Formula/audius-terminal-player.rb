@@ -2,8 +2,8 @@ class Audius < Formula
   include Language::Python::Virtualenv
 
   desc "Play music from Audius on your terminal"
-  homepage "https://github.com/AudiusProject/audius-cli"
-  url "https://github.com/AudiusProject/audius-cli/archive/refs/tags/v1.0.0.tar.gz"
+  homepage "https://github.com/AudiusProject/audius-terminal-player"
+  url "https://github.com/AudiusProject/audius-terminal-player/archive/refs/tags/v1.0.0.tar.gz"
   sha256 "4c11dee3e98673862f531536cc68c6bf2947dc0c1e6e72e4396fd4655b00bb4f"
   license "MIT"
 
