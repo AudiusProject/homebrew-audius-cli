@@ -1,4 +1,4 @@
-class Audius < Formula
+class AudiusTerminalPlayer < Formula
   include Language::Python::Virtualenv
 
   desc "Play music from Audius on your terminal"
